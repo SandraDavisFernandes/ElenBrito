@@ -4,7 +4,7 @@ html {
     margin: 0;
     background-color: #91DDCF;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    background: linear-gradient(to right, #E3FEF7, #5DEBD7, #EECAD5);)
+    background: linear-gradient(to right, #E3FEF7, #5DEBD7, #EECAD5);
     background-size: 180% 180%;
     animation: gradient-animation 18s ease infinite;
 }
